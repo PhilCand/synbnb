@@ -18,9 +18,6 @@ class HomeController extends AbstractController {
 
     }
 
-
-
-
     /**
      *@Route("/", name="homepage")
      */
@@ -37,6 +34,3 @@ class HomeController extends AbstractController {
 
 
 }
-
-
-?>
